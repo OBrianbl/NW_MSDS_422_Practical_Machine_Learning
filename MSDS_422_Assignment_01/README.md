@@ -26,6 +26,8 @@ The MSPA Survey has been designed with these objectives in mind:
 The final analysis and recommendations can be found here: [Final_Analysis_Management_Recommendation.pdf](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/Final_Analysis_Management_Recommendation.pdf)
 
 ### Python Programming
-Python packages: numpy, matplotlib, pandas, and seaborn
-[Jupyter Notebook](NW_MSDS_422_Practical_Machine_Learning/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.ipynb)
-[Python Code](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.py)
+<ul>
+  <li>Python packages: matplotlib, numpy, os, pandas, and seaborn
+  <li>[Jupyter Notebook](NW_MSDS_422_Practical_Machine_Learning/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.ipynb)
+  <li>[Python Code](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.py)
+</ul>
