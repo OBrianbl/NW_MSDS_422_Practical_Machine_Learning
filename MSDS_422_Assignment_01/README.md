@@ -1,7 +1,7 @@
 ## Exploring and Visualizing Data
 
 This project focuses on bringing data into Python, exploring, and visualizing data to make cirriculum recommendations for the 
-new data science program. The results and recommendations are here: [Final_Analysis_Management_Recommendation.pdf](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/Final_Analysis_Management_Recommendation.pdf)
+new data science program.
 
 ### Background Materials
 
@@ -21,6 +21,11 @@ The MSPA Survey has been designed with these objectives in mind:
   <li>Guide data science curriculum planning</li>
 </ul> 
 
+## Results and Recommendations
+
+The final analysis and recommendations can be found here: [Final_Analysis_Management_Recommendation.pdf](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/Final_Analysis_Management_Recommendation.pdf)
 
 ### Python Programming
 Python packages: numpy, matplotlib, pandas, and seaborn
+[Jupyter Notebook](NW_MSDS_422_Practical_Machine_Learning/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.ipynb)
+[Python Code](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/MSPA_Software_and_New_Course_Preferences_EDA.py)
