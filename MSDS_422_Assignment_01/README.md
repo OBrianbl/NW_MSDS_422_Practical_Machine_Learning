@@ -28,6 +28,8 @@ The final analysis and recommendations can be found here: [Final_Analysis_Manage
 ### Python Programming
 <ul>
   <li>Python packages: matplotlib, numpy, os, pandas, and seaborn
-  <li>[Jupyter Notebook](MSPA_Software_and_New_Course_Preferences_EDA.ipynb)
-  <li>[Python Code](MSPA_Software_and_New_Course_Preferences_EDA.py)
-</ul>
+</ul>   
+<br>[Jupyter Notebook](MSPA_Software_and_New_Course_Preferences_EDA.ipynb)</br>
+
+[Python Code](MSPA_Software_and_New_Course_Preferences_EDA.py)
+
