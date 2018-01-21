@@ -8,13 +8,12 @@
 # In[1]:
 
 
-#  Python analysis of MSPA Software Survey
+# Python analysis of MSPA Software Survey
 
-# tested under Python 3.6.1 :: Anaconda custom (x86_64)
-# on Windows 10.0
+# tested under Python 3.6.1, Anaconda custom (x86_64)
+# Windows 10.0
 
-# visualizations in this program are routed to external pdf files
-# so they may be included in printed or electronic reports
+# visualizations in this program are saved to external pdf files
 
 # prepare for Python version 3x features and functions
 # these two lines of code are needed for Python 2.7 only
