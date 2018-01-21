@@ -1,0 +1,11 @@
+
+------Descriptive statistics for courses completed ---------------
+count    187.000
+mean       6.342
+std        3.171
+min        1.000
+25%        4.000
+50%        6.000
+75%        9.000
+max       12.000
+Name: Courses_Completed, dtype: float64

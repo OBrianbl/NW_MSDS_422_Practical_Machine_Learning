@@ -1,0 +1,4 @@
+Python Course Interest Percent: 31.110335195530727%
+Foundations DE Course Interest Percent: 23.84365757476175%
+Analytics App Course Interest Percent: 23.015938218862964%
+Systems Analysis Course Interest Percent: 22.03006901084456%

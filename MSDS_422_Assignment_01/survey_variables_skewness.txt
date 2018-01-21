@@ -1,0 +1,23 @@
+
+----------Skewness of the distribution for survey variables---------------
+My_Java                             1.414
+My_JS                               1.371
+My_Python                           0.645
+My_R                                0.890
+My_SAS                              0.857
+Prof_Java                           2.134
+Prof_JS                             4.238
+Prof_Python                         0.618
+Prof_R                              0.813
+Prof_SAS                            1.393
+Ind_Java                            1.413
+Ind_JS                              1.754
+Ind_Python                          0.596
+Ind_R                               0.338
+Ind_SAS                             1.322
+Python_Course_Interest             -1.037
+Foundations_DE_Course_Interest     -0.238
+Analytics_App_Course_Interest      -0.147
+Systems_Analysis_Course_Interest   -0.060
+Courses_Completed                   0.093
+dtype: float64

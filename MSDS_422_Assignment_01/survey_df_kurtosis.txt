@@ -1,0 +1,23 @@
+
+----------Kurtosis of the distribution for survey variables---------------
+My_Java                              3.212
+My_JS                                1.146
+My_Python                            1.831
+My_R                                 1.849
+My_SAS                               1.081
+Prof_Java                            6.193
+Prof_JS                             29.216
+Prof_Python                          0.960
+Prof_R                               1.220
+Prof_SAS                             2.945
+Ind_Java                             1.724
+Ind_JS                               3.582
+Ind_Python                           0.991
+Ind_R                                0.709
+Ind_SAS                              2.047
+Python_Course_Interest              -0.038
+Foundations_DE_Course_Interest      -1.192
+Analytics_App_Course_Interest       -1.397
+Systems_Analysis_Course_Interest    -1.344
+Courses_Completed                   -1.090
+dtype: float64

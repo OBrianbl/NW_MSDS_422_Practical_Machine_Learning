@@ -1,0 +1,9 @@
+---Descriptive statistics for less than six courses completed---       Courses_Completed
+count             81.000
+mean               3.296
+std                1.373
+min                1.000
+25%                2.000
+50%                3.000
+75%                5.000
+max                5.000

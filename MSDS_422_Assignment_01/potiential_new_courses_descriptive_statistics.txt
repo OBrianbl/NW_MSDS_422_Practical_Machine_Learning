@@ -1,0 +1,19 @@
+
+------Descriptive statistics for potiential new courses ---------------
+                                  count    mean     std  \
+Python_Course_Interest            206.0  73.529  29.835   
+Foundations_DE_Course_Interest    200.0  58.045  32.588   
+Analytics_App_Course_Interest     203.0  55.202  34.148   
+Systems_Analysis_Course_Interest  200.0  53.630  33.539   
+
+                                  min   25%   50%     75%  \
+Python_Course_Interest            0.0  53.0  82.5  100.00   
+Foundations_DE_Course_Interest    0.0  29.5  60.0   89.25   
+Analytics_App_Course_Interest     0.0  25.0  60.0   85.00   
+Systems_Analysis_Course_Interest  0.0  21.5  51.5   80.25   
+
+                                    max  
+Python_Course_Interest            100.0  
+Foundations_DE_Course_Interest    100.0  
+Analytics_App_Course_Interest     100.0  
+Systems_Analysis_Course_Interest  100.0  
