@@ -1,7 +1,7 @@
 ## Exploring and Visualizing Data
 
-This assignment focuses on bringing data into Python, exploring and visualizing data to make cirriculum recommendations for the 
-new data science program. 
+This project focuses on bringing data into Python, exploring, and visualizing data to make cirriculum recommendations for the 
+new data science program. The results and recommendations are here: [Final_Analysis_Management_Recommendation.pdf](https://github.com/OBrianbl/NW_MSDS_422_Practical_Machine_Learning/blob/master/MSDS_422_Assignment_01/Final_Analysis_Management_Recommendation.pdf)
 
 ### Background Materials
 
