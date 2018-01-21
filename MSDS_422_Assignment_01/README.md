@@ -14,22 +14,19 @@ These data are provided in the comma-delimited text file <mspa-survey-data.csv>.
 Imagine that you are an academic administrator responsible for defining the future direction of the graduate program. 
 The MSPA Survey has been designed with these objectives in mind:
 
-<ul>
-  <li>Learn about current student software preferences</li>
-  <li>Learn about student interest in potential new courses</li>
-  <li>Guide software and systems planning for current and future courses</li>
-  <li>Guide data science curriculum planning</li>
-</ul> 
+
+**Learn about current student software preferences
+**Learn about student interest in potential new courses
+**Guide software and systems planning for current and future courses
+**Guide data science curriculum planning
+
 
 ## Results and Recommendations
 
 The final analysis and recommendations can be found here: [Final_Analysis_Management_Recommendation.pdf](Final_Analysis_Management_Recommendation.pdf)
 
 ### Python Programming
-<ul>
-  <li>Python packages: matplotlib, numpy, os, pandas, and seaborn
-</ul>   
-<br>[Jupyter Notebook](MSPA_Software_and_New_Course_Preferences_EDA.ipynb)</br>
-
+**Python packages: matplotlib, numpy, os, pandas, and seaborn  
+[Jupyter Notebook](MSPA_Software_and_New_Course_Preferences_EDA.ipynb)<br>
 [Python Code](MSPA_Software_and_New_Course_Preferences_EDA.py)
 
