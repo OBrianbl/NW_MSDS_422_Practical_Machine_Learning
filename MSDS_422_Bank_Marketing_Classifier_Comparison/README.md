@@ -28,8 +28,8 @@ The final analysis and recommendations can be found here: [Final_Analysis_Manage
 
 ### Python Programming
 **Python packages: matplotlib, numpy, os, pandas, and seaborn  
-[Jupyter Notebook](Bank_Markerting_Campaign_Classifier_Comparision)<br>
-[Python Code](Bank_Markerting_Campaign_Classifier_Comparision)
+[Jupyter Notebook](Bank_Markerting_Campaign_Classifier_Comparision.ipynb)<br>
+[Python Code](Bank_Markerting_Campaign_Classifier_Comparision.py)
 
 
 
