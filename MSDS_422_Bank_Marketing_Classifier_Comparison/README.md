@@ -17,8 +17,8 @@ Python Scikit Learn is the primary environment for conducting this research.
 ## Management Questions to Answer
 
 Advising the bank about machine learning methods to guide telephone marketing campaigns.
-**Which of the two modeling methods would you recommend, and why?
-**which group of banking clients appears to be the best target for direct marketing efforts 
+*Which of the two modeling methods would you recommend, and why?
+*which group of banking clients appears to be the best target for direct marketing efforts 
 (similar to those used with previous telephone campaigns)? 
 
 
