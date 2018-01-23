@@ -1,0 +1,8 @@
+
+---------Model data statistics----------
+
+Model data mean: 0.212729484627
+Model data standard deviation: 0.409237890471
+Model data median: 0.0
+Model data variance: 0.167475650998
+Model data shape: (4521, 4)

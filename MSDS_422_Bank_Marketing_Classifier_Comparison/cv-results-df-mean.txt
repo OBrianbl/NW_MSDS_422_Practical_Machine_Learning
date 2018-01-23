@@ -1,0 +1,7 @@
+
+Average results from 10-fold cross-validation
+
+Method Area under ROC Curve:
+Logistic_Regression    0.607916
+Naive_Bayes            0.608131
+dtype: float64
