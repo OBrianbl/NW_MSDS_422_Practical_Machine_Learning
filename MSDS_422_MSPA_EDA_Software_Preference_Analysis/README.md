@@ -21,7 +21,14 @@ The MSPA Survey has been designed with these objectives in mind:
 
 
 ## Results and Recommendations
-
+Looking at the overall preferences for software we see that Python and R showed the most 
+preference, with SAS still hanging around as important. This is further backed when looking at 
+these three software preferences per graduate year. Python and R preferences produced an 
+overall highest percentage total for software preferences, with R still preferred above others; this 
+could be due to the lack of familiarity with Python verses R. Then looking at which potential 
+new course offering was rated the highest we see the Python Course as the top with 31.11%. 
+Thus, my recommendation would be to offer more courses in Python, including Python 
+programming foundations course.<br><br>  
 The final analysis and recommendations can be found here: [Final_Analysis_Management_Recommendation.pdf](Final_Analysis_Management_Recommendation.pdf)
 
 ### Python Programming
@@ -29,6 +36,10 @@ The final analysis and recommendations can be found here: [Final_Analysis_Manage
 [Jupyter Notebook](MSPA_Software_and_New_Course_Preferences_EDA.ipynb)<br>
 [Python Code](MSPA_Software_and_New_Course_Preferences_EDA.py)
 
+### prepared for Python version 3x features and functions
+** These two lines of code are needed for Python 2.7 only
+* from __future__ import division, print_function
+* from future_builtins import ascii, filter, hex, map, oct, zip
 
 
 
