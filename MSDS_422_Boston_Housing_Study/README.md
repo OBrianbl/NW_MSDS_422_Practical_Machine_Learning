@@ -8,13 +8,13 @@ All explanaroty variables are used, expect <em>neighborhood</em>, along with 506
 from the Boston Housing Study.
 
 * The log median values of homes in thousands of 1970 dollars.
-* The following regression methods were used for comparision. 
-** linear regression
-** ridge regression
-** lasso regression
-** elastic net 
-** Evaluate these methods within a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. 
-** Python Scikit Learn should be your primary environment for conducting this research. 
+### The following regression methods were used for comparision. 
+* linear regression
+* ridge regression
+* lasso regression
+* elastic net 
+* Evaluate these methods within a cross-validation design, using root mean-squared error (RMSE) as an index of prediction error. 
+* Python Scikit Learn should be your primary environment for conducting this research. 
 
  
 
