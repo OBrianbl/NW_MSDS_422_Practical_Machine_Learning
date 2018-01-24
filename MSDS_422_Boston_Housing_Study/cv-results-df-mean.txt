@@ -1,0 +1,10 @@
+
+Average results from 10-fold cross-validation
+in standardized units (mean 0, standard deviation 1)
+
+Method Root mean-squared error:
+ElasticNet_Regression    0.51885
+Lasso_Regression         0.54441
+Linear_Regression        0.49645
+Ridge_Regression         0.49569
+dtype: float64
