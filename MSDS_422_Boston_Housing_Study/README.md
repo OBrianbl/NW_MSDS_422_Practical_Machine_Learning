@@ -26,7 +26,13 @@ conventional methods for assessing the market value of residential real estate.
  examined in your study, which would you recommend to management, and why?
 
 ### Results and Recommendations
-
+The results from the 10-fold cross-validation in standardized units informs us that both the 
+Linear and Ridge regression models performed the best with 0.50 and 0.50, respectively, under 
+the root mean-squared error metric. Elastic Net regression model coming in next with a reporting 
+0.52 root mean-squared error metric and Lasso regression model taking last place with a root 
+mean-squared error of 0.54. Therefore, I recommend from the regression models presented the 
+Linear regression model using the log mean home market valuation for further valuation 
+endeavors until other methods can be explored and compared.<br><br> 
 The final analysis and recommendations can be found here: [Final_Analysis_Management_Recommendation.pdf](Final_Analysis_Management_Recommendation.pdf)
 
 #### Python Programming
