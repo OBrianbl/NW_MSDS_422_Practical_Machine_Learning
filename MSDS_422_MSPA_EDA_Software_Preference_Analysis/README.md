@@ -40,6 +40,8 @@ The final analysis and recommendations can be found here: [Final_Analysis_Manage
 ** These two lines of code are needed for Python 2.7 only
 * from __future__ import division, print_function
 * from future_builtins import ascii, filter, hex, map, oct, zip
-
-
+<br>
+<a href= "https://obrianbl.github.io/NW_MSDS_422_Practical_Machine_Learning/">NW_MSDS_422_Practical_Machine_Learning</a>
+<br>
+<a href="https://obrianbl.github.io/">Return to Main Page</a>
 
