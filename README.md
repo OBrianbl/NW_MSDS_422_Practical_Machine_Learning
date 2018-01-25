@@ -1,3 +1,4 @@
+<a href="https://obrianbl.github.io">Main profile link</a><br>
 ## Northwestern University M.S. Data Science Practical Machine Learning Course Work (MSDS_422)
 
 The course introduces machine learning with business applications using Python. 
@@ -12,5 +13,4 @@ The following are projects completed for the course:<br>
 * [Bank Marketing Classifier Comparision](MSDS_422_Bank_Marketing_Classifier_Comparison)
 * [Boston Housing Study](MSDS_422_Boston_Housing_Study)
 * [Software Preference Analysis](MSDS_422_MSPA_EDA_Software_Preference_Analysis)
-<br>
-<a href="https://obrianbl.github.io">Main profile link</a>
+
