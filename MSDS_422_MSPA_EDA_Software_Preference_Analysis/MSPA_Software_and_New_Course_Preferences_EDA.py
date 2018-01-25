@@ -16,15 +16,7 @@
 # visualizations in this program are routed to external pdf files
 # so they may be included in printed or electronic reports
 
-# prepare for Python version 3x features and functions
-# these two lines of code are needed for Python 2.7 only
-# commented out for Python 3.x versions
-# from __future__ import division, print_function
-# from future_builtins import ascii, filter, hex, map, oct, zip
-
-
 # In[2]:
-
 
 import pandas as pd  # data frame operations  
 from pandas import set_option
