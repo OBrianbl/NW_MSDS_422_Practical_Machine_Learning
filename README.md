@@ -13,4 +13,4 @@ The following are projects completed for the course:<br>
 * [Boston Housing Study](MSDS_422_Boston_Housing_Study)
 * [Software Preference Analysis](MSDS_422_MSPA_EDA_Software_Preference_Analysis)
 <br>
-[Main Page](https://obrianbl.github.io/)
+[Main Page](https://obrianbl.github.io)
